@@ -1,7 +1,8 @@
 function Resume(){
     return(
         <section className="resume-section">
-            <h2>Skills</h2>
+            <h2>Proficiencies</h2>
+            <a href="https://drive.google.com/file/d/17frQufSyQ_yONxtnZpgjJwCLEnYhLMIJ/view">Full Resume</a>
             <div className="skillbox">
                 <h3>Front End</h3>
                 <ul>
