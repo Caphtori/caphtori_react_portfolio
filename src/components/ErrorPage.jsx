@@ -8,7 +8,6 @@ export default function ErrorPage(){
         <section className="error-page">
             <h2>Uh Oh!</h2>
             <p>Looks like an error occured.  It's probably your fault, but I won't tell anyone...</p>
-            <p>{err.statusText || err.message}</p>
         </section>
     );
 };
