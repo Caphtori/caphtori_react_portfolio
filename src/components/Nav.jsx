@@ -16,4 +16,6 @@ function Nav({ thisPage }){
             })}
         </nav>
     )
-}
+};
+
+export default Nav;
